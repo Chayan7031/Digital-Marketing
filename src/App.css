@@ -1,0 +1,4 @@
+.outlined-text {
+  -webkit-text-stroke: 2px white; /* stroke width + color */
+  color: transparent;             /* make text fill transparent */
+}
